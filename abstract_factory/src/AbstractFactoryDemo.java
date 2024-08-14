@@ -19,6 +19,5 @@ public class AbstractFactoryDemo {
 
         Shape shape4 = roundedFactory.getShape("square");
         shape4.draw();
-
     }
 }
