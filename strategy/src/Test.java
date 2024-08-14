@@ -13,6 +13,5 @@ public class Test {
                 new _7ZipCompressor()
         );
         _7zipCompressor.compress(new File(""));
-
     }
 }
