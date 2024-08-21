@@ -10,7 +10,6 @@ public class BridgeDemo {
         basicTvRemote.volumeDown();
         tv.printStatus();
 
-
         Device radio = new Radio();
 
         BasicRemote basicRadioRemote = new BasicRemote(radio);
